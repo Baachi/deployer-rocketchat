@@ -1,0 +1,23 @@
+{
+    "name": "baachi/deployer-rocketchat-recipe",
+    "description": "Recipe for deployerphp to send notifications to rocketchat",
+    "type": "library",
+    "require-dev": {
+        "deployer/deployer": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Markus Bachmann",
+            "email": "markus.bachmann@bachi.biz"
+        }
+    ],
+    "require": {
+        "php": "~7.0"
+    },
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
