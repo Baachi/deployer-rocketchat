@@ -1,5 +1,8 @@
 # RocketChat Recipe
 
+> :warning: This package is abandoned, please use the offical recipe.
+
+
 ## Installing
 
 Create a RockChat incoming webhook, through the administration panel.
